@@ -1,0 +1,26 @@
+form{
+background-color:#F5F7F8;
+text-align:center;
+width:20%;
+height:40vh;
+margin:10% 40%;
+}
+.head{
+margin-top:10px;
+}
+input{
+
+outline:none;
+
+}
+input[type=text]{
+text-align:center;
+color:black;
+font-family:Helvetica;
+margin-top:20px;
+border-radius:20px;
+font-size:20px;
+}
+.btn-primary{
+margin-top:10%;
+}
